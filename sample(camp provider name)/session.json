@@ -1,0 +1,923 @@
+[
+  {
+    "camp": "Silver Knights Chess Camp",
+    "name": "Chess Camp Workshop",
+    "startDate": "null",
+    "endDate": "null",
+    "duration": "null",
+    "categories": [
+      "Strategy"
+    ],
+    "tags": [
+      "science",
+      "computer programming",
+      "problem-solving",
+      "STEM",
+      "Chess"
+    ],
+    "cost": "null",
+    "deposit": "null",
+    "eligibility": {
+      "age": [
+        6,
+        13
+      ],
+      "grade": [
+        1,
+        8
+      ],
+      "gender": "co-ed"
+    },
+    "description": "This Silver Knights camp teaches both fundamentals and advanced skills in a fun atmosphere. Campers learn the great strategy game to explore STEM concepts.",
+    "location": {
+      "address": "Green Locations",
+      "zipcode": "null",
+      "lat": "null",
+      "long": "null"
+    },
+    "other": {
+      "mealPlan": "null",
+      "transportation": "null"
+    },
+    "meetupType": "in-person",
+    "startTime": "null",
+    "endTime": "null"
+  },
+  {
+    "camp": "GREEN LOCATION CAMPS",
+    "name": "Explore Your World! public performance",
+    "startDate": "null",
+    "endDate": "null",
+    "duration": "null",
+    "categories": [
+      "Travel",
+      "Sports"
+    ],
+    "tags": [
+      "theatre",
+      "geography",
+      "travel plans",
+      "inspiration boards",
+      "traveling careers"
+    ],
+    "cost": "null",
+    "deposit": "null",
+    "eligibility": {
+      "age": [
+        9,
+        14
+      ],
+      "grade": "null",
+      "gender": "co-ed"
+    },
+    "description": "Join Camprichment to explore working or living around the world. Play geography games. Develop travel plans and inspiration boards. Learn about traveling careers.",
+    "location": {
+      "address": "null",
+      "zipcode": "null",
+      "lat": "null",
+      "long": "null"
+    },
+    "other": {
+      "mealPlan": "null",
+      "transportation": "null"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 17
+  },
+  {
+    "camp": "Challenger Creative Skills Camp",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Total Sports Camp",
+    "name": "Sports Exploration Camp",
+    "startDate": "null",
+    "endDate": "null",
+    "duration": null,
+    "categories": [
+      "Academic",
+      "Sports"
+    ],
+    "tags": [
+      "sports",
+      "basketball",
+      "flag football",
+      "soccer",
+      "track"
+    ],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        6,
+        13
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Play a variety of sports such as basketball, flag football, soccer, and track in this fast-paced, high-energy camp. The day includes outdoor recess, story time tied to the day\u2019s science, free reading, exploration, and a daily journal entry. Participants need to bring a snack, water bottle, lunch, swimsuit, 2 towels, change of clothes, and sunscreen. No camp on June 19 and July 4.",
+    "location": {
+      "address": "null",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Freshwater Fishing Fun Camp",
+    "name": "Freshwater Fishing Fun Camp",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [
+      "Adventure",
+      "Sports"
+    ],
+    "tags": [
+      "fishing",
+      "water sports",
+      "volleyball",
+      "basketball"
+    ],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        8,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Campers will learn freshwater fishing basics such as casting, rigging, knot tying, selecting tackle and lures, and identifying fish. They will also gain knowledge and experience in freshwater fishing using a variety of tackle. Additionally, campers will enjoy water sports like volleyball and basketball, as well as out-of-pool games and activities. Prerequisite: Child must be able to swim 25 yards and wear life jackets when in the water or on a boat.",
+    "location": {
+      "address": null,
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "Swim Time Camp",
+    "startDate": "2023-06-23",
+    "endDate": "2023-06-27",
+    "duration": 5,
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "swim time",
+      "camp",
+      "games",
+      "art"
+    ],
+    "cost": 399,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Swim Time Camp is a fun-filled camp where kids can enjoy swimming, games, and art activities. The camp emphasizes creativity, fun games, and the love of art. Participants are required to bring a smock, snack, lunch, and drink. A supply fee of $10 is due on the first day of camp. Join us for a refreshing and exciting experience!",
+    "location": {
+      "address": "EagleView ES",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "camp": "Truly Enchanted Kidcreate Camp",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Dinosaur Days Camp",
+    "name": "Dinosaur Days Camp",
+    "startDate": "2023-07-07",
+    "endDate": "2023-07-11",
+    "duration": 5,
+    "categories": [
+      "Academic",
+      "Adventure"
+    ],
+    "tags": [
+      "paleontologists",
+      "dinosaur",
+      "habitats",
+      "farm life"
+    ],
+    "cost": 359,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": null
+    },
+    "description": "Campers will become junior paleontologists as naturalists lead discovery of the latest in dinosaur knowledge. Part of this unique camp experience introduces meadow habitats and farm life. Young people will learn how animal habitats are being threatened and what they can do to protect them.",
+    "location": {
+      "address": "Frying Pan Park",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 8,
+    "endTime": 16
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "Habitats and Insects Exploration Camp",
+    "startDate": "2023-07-14",
+    "endDate": "2023-07-18",
+    "duration": 5,
+    "categories": [
+      "Environmental",
+      "Adventure"
+    ],
+    "tags": [
+      "hikes",
+      "projects",
+      "games"
+    ],
+    "cost": 239,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        5,
+        9
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Explore the habits and biology of farm animals, wild ancestors, and insects through hikes, projects, and games at Frying Pan Farm Park. Meet the countless creatures that live in stream and forest habitats.",
+    "location": {
+      "address": "Frying Pan Farm Park",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 12
+  },
+  {
+    "camp": "Lake Fairfax Survival Camp",
+    "name": "Discover the secrets of soil",
+    "startDate": "null",
+    "endDate": "null",
+    "duration": null,
+    "categories": [
+      "Adventure"
+    ],
+    "tags": [
+      "soil",
+      "nature",
+      "exploring",
+      "critters",
+      "crafts",
+      "experiments",
+      "shelter building",
+      "water filtration",
+      "fire building",
+      "wilderness first aid",
+      "fishing"
+    ],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        8,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Discover the secrets of soil, exploring archaeology, geology, and the critters that live beneath our feet! Daily nature walks, crafts, and experiments. Survivors will join each other in shelter building, water filtration, fire building, wilderness first aid, and fishing. Bring drink, snack, and lunch daily.",
+    "location": {
+      "address": "null",
+      "zipcode": "null",
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Eureka! Inventors Camp",
+    "name": "Exploration and Brain Model Study",
+    "startDate": "2023-07-21",
+    "endDate": "2023-07-25",
+    "duration": 5,
+    "categories": [
+      "STEM "
+    ],
+    "tags": [
+      "exploration",
+      "brain model study",
+      "reflexes",
+      "body functions"
+    ],
+    "cost": 279,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        6,
+        10
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Join us at Eureka! Inventors Camp for an exciting session focused on exploration and studying the brain model. Participants will delve into the systems of the body with SteamKidz Lab, learning how reflexes work and other essential body functions. Young inventors, aged 6-10, will have the opportunity to create simple machines using basic materials. This hands-on experience will provide insights into what doctors and veterinarians need to know.",
+    "location": {
+      "address": "Green Locations",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 13,
+    "endTime": 16
+  },
+  {
+    "camp": "SteamKidz Lab",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Blue Locations",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "iCODE Camp",
+    "name": "Create, Edit & Shine",
+    "startDate": "null",
+    "endDate": "null",
+    "duration": null,
+    "categories": [
+      "STEM "
+    ],
+    "tags": [
+      "LEGO",
+      "spy equipment",
+      "content creation",
+      "video editing",
+      "photography"
+    ],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        9,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Enhance your observation skills and learn how to use spy equipment. Explore the endless creative possibilities of the LEGO building system. Campers will learn how to produce eye-catching videos and photos for social media platforms. They'll explore the basics of content creation.",
+    "location": {
+      "address": "Green Location",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Cake Wars 2.0",
+    "name": "Cake Wars 2.0",
+    "startDate": "2023-07-28",
+    "endDate": "2023-08-01",
+    "duration": 5,
+    "categories": [
+      "Culinary"
+    ],
+    "tags": [
+      "recipes",
+      "breakfast foods",
+      "drinks",
+      "savory cupcakes",
+      "decorating techniques"
+    ],
+    "cost": 445,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        10,
+        14
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Cake Wars 2.0 is a culinary competition where campers will create recipes that double as breakfast foods, drinks, and savory cupcakes. Older chefs will enjoy learning precise decorating techniques. Join us for a fun and delicious experience!",
+    "location": {
+      "address": "Woodburn ES",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "camp": "",
+    "name": "Learn about traveling careers. Create and trade sou-",
+    "startDate": "2023-08-18",
+    "endDate": "2023-08-18",
+    "duration": 1,
+    "categories": [],
+    "tags": [
+      "traveling careers",
+      "souvenirs",
+      "cultural etiquette",
+      "delicious donuts",
+      "flavored glazes"
+    ],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        6,
+        10
+      ],
+      "grade": null,
+      "gender": null
+    },
+    "description": "A whole session dedicated to the deliciousness of donuts! Create flavors such as Mexican hot chocolate, apple cider, and lemon blueberry donuts. Add a variety of flavored glazes to choose from. Practice cultural etiquette. Take home a play passport and luggage tag.",
+    "location": {
+      "address": null,
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "Challenger Creative Skills Camp",
+    "name": "Challenger Creative Skills Camp",
+    "startDate": "2023-06-30",
+    "endDate": "2023-07-03",
+    "duration": 4,
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "basketball",
+      "flag football",
+      "soccer"
+    ],
+    "cost": 249,
+    "deposit": null,
+    "eligibility": {
+      "age": [
+        6,
+        13
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "description": "Give your young athlete a chance to try out basketball, flag football, and soccer at the Challenger Creative Skills Camp. Through its innovative and exciting concept using inflatable fields, Challenger Sports will teach campers advanced skills.",
+    "location": {
+      "address": "nWkfld/Moore",
+      "zipcode": null,
+      "lat": null,
+      "long": null
+    },
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "camp": "uVirtual FCPA",
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "duration": null,
+    "categories": [],
+    "tags": [],
+    "cost": null,
+    "deposit": null,
+    "eligibility": {
+      "age": null,
+      "grade": null,
+      "gender": ""
+    },
+    "description": "",
+    "location": {
+      "address": "",
+      "zipcode": "",
+      "lat": "",
+      "long": ""
+    },
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  }
+]

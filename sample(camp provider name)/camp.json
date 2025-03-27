@@ -1,0 +1,572 @@
+[
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Camps Ready, 2025 SPRING AND SUMMER Set",
+    "description": "Camps Ready, 2025 SPRING AND SUMMER Set offers a variety of camps for children with different interests. Campers can choose from a wide range of activities such as sports, arts, STEM, nature exploration, and more.",
+    "location": {
+      "address": "Fairfax County, VA, USA",
+      "zipcode": "",
+      "lat": 38.74389439999999,
+      "long": -77.2405153
+    },
+    "categories": [
+      "STEM ",
+      "Adventure",
+      "Sports"
+    ],
+    "tags": [
+      "Spring 2025",
+      "Summer 2025",
+      "camp registration",
+      "outdoor activities"
+    ],
+    "startDate": "2025-02-04",
+    "endDate": "2025-02-06",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        0
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": null,
+    "deposit": null,
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 9
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Spring Camp",
+    "name": "Spring Camps Custom Worlds",
+    "description": "Campers will explore game creation and bring their imagination to life with simple programming concepts. Perfect for beginners eager to explore game creation.",
+    "location": {
+      "address": "12011 Government Center Pkwy, Fairfax, VA 22035, USA",
+      "zipcode": "12011",
+      "lat": 38.85525029999999,
+      "long": -77.3625954
+    },
+    "categories": [
+      "STEM "
+    ],
+    "tags": [
+      "game creation",
+      "programming",
+      "beginners",
+      "imagination"
+    ],
+    "startDate": "2025-03-31",
+    "endDate": "2025-04-01",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        0
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": 209,
+    "deposit": null,
+    "other": {
+      "mealPlan": "",
+      "transportation": ""
+    },
+    "meetupType": "",
+    "startTime": null,
+    "endTime": null
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Ultimate Music Experience NEW! Floor Hockey Camp",
+    "description": "Campers will be introduced to a variety of musical instruments and concepts, including piano, guitar, violin, drums, voice, and movement. They will also learn the basics of hockey and how to compete as a team with high effort and sportsmanship. Activities include musical games, crafts, listening excerpts, and related projects.",
+    "location": {
+      "address": "Lake Fairfax Dr, Reston, VA 20190, USA",
+      "zipcode": "20190",
+      "lat": 38.9699469,
+      "long": -77.31786749999999
+    },
+    "categories": [
+      "Music",
+      "Sports"
+    ],
+    "tags": [
+      "musical instruments",
+      "hockey",
+      "teamwork",
+      "sportsmanship"
+    ],
+    "startDate": "2025-04-14",
+    "endDate": "2025-04-18",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        7,
+        11
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 199,
+    "deposit": null,
+    "other": {
+      "mealPlan": "bring lunch, snack, and drink daily",
+      "transportation": "not provided"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 13
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Women in the Woods ACTion! Pop Star Spotlight",
+    "description": "Join Moonlit Wings Productions for a summer camp where kids aged 7-14 explore improvisation games, character creation, talent shows, and more. Activities include rock climbing, paddling, fire building, outdoor stage performances, and acting in original scenes. Participants also learn about influential women trailblazers, develop storytelling skills, and gain important life skills for surviving and protecting the outdoors. All levels are welcome, and family and friends can enjoy mini performances.",
+    "location": {
+      "address": "R77J+HVX, College Road, Dharan 56700, Nepal",
+      "zipcode": "56700",
+      "lat": 26.81398849999999,
+      "long": 87.282241
+    },
+    "categories": [
+      "Environmental",
+      "Leadership",
+      "Adventure",
+      "Sports"
+    ],
+    "tags": [
+      "improvisation games",
+      "character creation",
+      "talent show",
+      "outdoor activities",
+      "influential women",
+      "storytelling skills"
+    ],
+    "startDate": "2025-06-23",
+    "endDate": "2025-08-15",
+    "duration": 7,
+    "eligibility": {
+      "age": [
+        7,
+        14
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 699,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "B2R DJ Camp",
+    "description": "Beat Refinery DJ Camp offers a crash course to the world of DJing. Led by pro DJs, students learn the fundamentals of mixing, scratching, and beat matching. Students explore Serato DJ Pro and participate in an interactive choir performance.",
+    "location": {
+      "address": "6649a Old Dominion Dr, McLean, VA 22101, USA",
+      "zipcode": "22101",
+      "lat": 38.9307282,
+      "long": -77.1746948
+    },
+    "categories": [
+      "Music",
+      "Sports"
+    ],
+    "tags": [
+      "DJing",
+      "mixing",
+      "scratching",
+      "choir",
+      "performance"
+    ],
+    "startDate": "2025-07-28",
+    "endDate": "2025-08-01",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        6,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 415,
+    "deposit": null,
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Megastar Dance Camp Gymnastics & Cheer Camp",
+    "description": "Join Art in Motion for a dance and gymnastics camp where campers will interpret movement with feelings, learn emotions and style with Metro Movement, and build skills in lyrical, jumps, stunts, cheers, and a dance routine. The camp includes activities like dancing on the balance beam, bars, floor, and vault, taught by experienced instructors.",
+    "location": {
+      "address": "Moore Park NSW 2021, Australia",
+      "zipcode": "",
+      "lat": -33.8952578,
+      "long": 151.2215296
+    },
+    "categories": [
+      "cinematics",
+      "Music",
+      "Sports"
+    ],
+    "tags": [
+      "dance",
+      "gymnastics",
+      "cheerleading",
+      "metro movement"
+    ],
+    "startDate": "2025-06-30",
+    "endDate": "2025-07-03",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        6,
+        9
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": 175,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Popstar Dance Camp",
+    "description": "Popstar Dance Camp offers a fun-filled experience for campers to dance to the hottest music, learn various dance styles, play games, do arts and crafts, and enjoy an afternoon swim break. Campers will have a dance performance at the end of the week for family and friends.",
+    "location": {
+      "address": "Fairfax County, VA, USA",
+      "zipcode": "",
+      "lat": 38.74389439999999,
+      "long": -77.2405153
+    },
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "dance",
+      "music",
+      "arts",
+      "swim break"
+    ],
+    "startDate": "2025-06-23",
+    "endDate": "2025-08-15",
+    "duration": 7,
+    "eligibility": {
+      "age": [
+        6,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 399,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Hidden Oaks STEAM Camp Introduction to Drones",
+    "description": "Experience all aspects of STEAM as we explore a different topic each day with engaging and small drone. Discover how to build and operate a recreational and professional drone, and learn to operate them safely and responsibly. Topics include science, technology, engineering, art, and math. This camp is best for participants with no drone experience. All materials and equipment provided. No camp on July 4.",
+    "location": {
+      "address": "7701 Royce St, Annandale, VA 22003, USA",
+      "zipcode": "22003",
+      "lat": 38.839268,
+      "long": -77.211738
+    },
+    "categories": [
+      "STEM ",
+      "mythology"
+    ],
+    "tags": [
+      "STEAM",
+      "drones",
+      "science",
+      "technology",
+      "engineering",
+      "art",
+      "math"
+    ],
+    "startDate": "2025-07-21",
+    "endDate": "2025-07-25",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        7,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 239,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 12
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Science Games & Survivor Camp Slime Time STEM Adventures",
+    "description": "Join Baroody camps to delve into various aspects of STEM, exploring topics such as robotics, chemistry, coding, and game design. The camp is packed with races, games, and surviving on a desert island. Participants will discuss STEM concepts, create different kinds of slime, play Earthquake and Floor is Lava, build and race paper airplanes, stretch slime, and use earth, wind, fire, and water to survive on a desert island. They will also build gadgets, explore volcanoes, create a water filter, and track and identify animals.",
+    "location": {
+      "address": "R77J+HVX, College Road, Dharan 56700, Nepal",
+      "zipcode": "56700",
+      "lat": 26.81398849999999,
+      "long": 87.282241
+    },
+    "categories": [
+      "STEM ",
+      "Adventure",
+      "Sports"
+    ],
+    "tags": [
+      "robotics",
+      "chemistry",
+      "coding",
+      "game design",
+      "survival skills",
+      "slime making"
+    ],
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-27",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        5,
+        12
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": 345,
+    "deposit": null,
+    "other": {
+      "mealPlan": "included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "STEM exCEL Gamer Adventures",
+    "description": "Learn the fundamentals of programming, design, build, and program video games using LEGO\u00ae Mindstorms EV3 robots. Explore diverse habitats while crafting animals in their natural surroundings. Dive into the history of video games, electronics, and circuitry. Develop advanced sensor programming skills and create video game animations.",
+    "location": {
+      "address": "R77J+HVX, College Road, Dharan 56700, Nepal",
+      "zipcode": "56700",
+      "lat": 26.81398849999999,
+      "long": 87.282241
+    },
+    "categories": [
+      "Cinematics",
+      "STEM ",
+      "Adventure",
+      "Sports"
+    ],
+    "tags": [
+      "LEGO",
+      "programming",
+      "video games",
+      "electronics",
+      "animals",
+      "robotics"
+    ],
+    "startDate": "2025-06-30",
+    "endDate": "2025-07-03",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        6,
+        12
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": 199,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 12
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "All-American Diner Road Trip Camp",
+    "description": "Campers will learn how to make everyone\u2019s favorite diner and drive-thru delights. By the end of this camp, campers will feel a sense of confidence in the kitchen with their certificate of completion. Disclaimer: Tiny Chefs reviews products for allergy warnings indicated on the label. Tiny Chefs is not liable for allergens not listed on product packaging, and environmental factors or cross-contamination. Tiny Chefs can accommodate some mild allergies based on their discretion.",
+    "location": {
+      "address": "Letang - 3, \u0932\u0947\u091f\u093e\u0919 56609, Nepal",
+      "zipcode": "56609",
+      "lat": 26.7375663,
+      "long": 87.5008941
+    },
+    "categories": [
+      "Culinary"
+    ],
+    "tags": [
+      "cooking",
+      "kitchen skills",
+      "allergies",
+      "confidence"
+    ],
+    "startDate": "2025-06-23",
+    "endDate": "2025-08-15",
+    "duration": 7,
+    "eligibility": {
+      "age": [
+        0
+      ],
+      "grade": [
+        0
+      ],
+      "gender": "co-ed"
+    },
+    "cost": 429,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Little Shoppers Personal Finance Camp",
+    "description": "Campers learn how to manage money, analyze marketing strategies, develop budgets, shop for credit cards, and understand financial concepts like mortgages, FICO scores, and debt accumulation. Through simulations and hands-on activities, participants gain confidence in making financial decisions.",
+    "location": {
+      "address": "12011 Government Center Pkwy, Fairfax, VA 22035, USA",
+      "zipcode": "12011",
+      "lat": 38.85525029999999,
+      "long": -77.3625954
+    },
+    "categories": [
+      "Academic",
+      "Leadership"
+    ],
+    "tags": [
+      "finance",
+      "marketing",
+      "budgeting",
+      "shopping",
+      "business"
+    ],
+    "startDate": "2023-08-18",
+    "endDate": "2023-08-22",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        6,
+        13
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 399,
+    "deposit": null,
+    "other": {
+      "mealPlan": null,
+      "transportation": null
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  },
+  {
+    "campProvider": "Fairfax County Park Authority",
+    "campType": "Summer Camp",
+    "name": "Baseball & Flag Football Camp",
+    "description": "This unique SMUV Sports camp focuses on fundamentals with drills and contests in two popular sports: baseball and flag football. Campers of all skill levels will participate in drills, contests, and game play daily. Participants are divided by age and ability. The week concludes with a championship game. Rec Center camps include an afternoon swim break.",
+    "location": {
+      "address": "Main Rd, Naphill, High Wycombe HP14 4SX, UK",
+      "zipcode": "",
+      "lat": 51.6651142,
+      "long": -0.7767988999999998
+    },
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "baseball",
+      "flag football",
+      "drills",
+      "contests",
+      "game play"
+    ],
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-27",
+    "duration": 0,
+    "eligibility": {
+      "age": [
+        6,
+        12
+      ],
+      "grade": null,
+      "gender": "co-ed"
+    },
+    "cost": 319,
+    "deposit": null,
+    "other": {
+      "mealPlan": "not included",
+      "transportation": "not available"
+    },
+    "meetupType": "in-person",
+    "startTime": 9,
+    "endTime": 16
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "name": "Fairfax County Park Authority",
+  "profileImage": "https://www.7drumcity.com/uploads/4/4/2/7/4427384/todd-sucherman-3_orig.png",
+  "siteLink": "https://www.7drumcity.com",
+  "logoLink": "https://www.7drumcity.com/uploads/4/4/2/7/4427384/editor/billboard-logo-1.png?1725651153",
+  "phoneNumbers": [
+      "2026437424"
+  ],
+  "emails": [
+    "camps@fairfaxcounty.gov"
+  ],
+  "socials": [
+    {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/openmic.ag"
+    },
+    {
+        "platform": "Youtube",
+        "link": "https://www.youtube.com/watch?feature=shared&v=GXd_oYi0hMc"
+    },
+    {
+        "platform": "Instagram",
+        "link": "http://www.instagram.com/7drumcity"
+    },
+    {
+        "platform": "Instagram",
+        "link": "http://www.instagram.com/thepocket_dc"
+    },
+    {
+        "platform": "Instagram",
+        "link": "http://www.instagram.com/flashband_dc"
+    },
+    {
+        "platform": "Facebook",
+        "link": "https://www.facebook.com/thepocketdc"
+    },
+    {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/thepocket_dc/"
+    },
+    {
+        "platform": "Facebook",
+        "link": "https://www.facebook.com/7drumcity"
+    },
+    {
+        "platform": "Instagram",
+        "link": "https://instagram.com/7drumcity"
+    },
+    {
+        "platform": "Linkedin",
+        "link": "https://linkedin.com/company/7drumcity"
+    },
+    {
+        "platform": "Facebook",
+        "link": "https://www.facebook.com/Flashband"
+    },
+    {
+        "platform": "Instagram",
+        "link": "https://www.instagram.com/flashband_dc/"
+    }
+]
+}
